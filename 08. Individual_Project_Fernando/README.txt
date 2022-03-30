@@ -4,9 +4,9 @@ Fernando Delgado
 ====================================================================================================================
 Individual Project	# Main folder of the project
 |
-+-- data			# Raw and final datasets
++-- data		# Raw and final datasets
 |
-+-- docs			# Written Report and project description.
++-- docs		# Written Report and project description.
 |
 +-- src			# Jupyter notebook for source code (Python)
 
